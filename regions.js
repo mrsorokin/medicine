@@ -1,7 +1,7 @@
 ﻿ymaps.ready(function () {
 
     geoMap = new ymaps.Map('map', {
-        center: [60, 90],
+        center: [66.47, 93.46],
         type: "yandex#map",
         zoom: 3
     });
